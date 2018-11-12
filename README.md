@@ -1,12 +1,9 @@
-# Decentralized Elections
-
+# UI For blockchain
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
 ## Goal
 
-This project consists of a small SPA to choose a representant to lead any dummy group of people. 
-
-The voting is done via Blockchain.
+This project consists of a small SPA to communicate to a Blockchain.
 
 ## Development server
 
